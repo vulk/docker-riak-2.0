@@ -17,6 +17,6 @@
     "optimist": "~0.6.0",
     "request": "~2.33.0",
     "async": "~0.2.9",
-    "mustache": "~0.8.1"
+    "mustache": "~4.0.1"
   }
 }
